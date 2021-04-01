@@ -6,11 +6,11 @@
 [我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
 | 序号| 面经目录 | 面经链接 |
 | ----- | ----- | ----- |
-| 01| 字节跳动算法面经|[点击查看](http://blog.csdn.net/guodongxiaren "悬停显示") |
-| 02| 阿里巴巴算法面经 |[点击查看](http://blog.csdn.net/guodongxiaren "悬停显示") |
-| 03| 腾讯算法面经 |[点击查看](http://blog.csdn.net/guodongxiaren "悬停显示")  |
-| 04| 百度算法面经 |[点击查看](http://blog.csdn.net/guodongxiaren "悬停显示") |
-| 05| 华为算法面经 |[点击查看](http://blog.csdn.net/guodongxiaren "悬停显示") |
+| 01| 字节跳动算法面经|[点击查看](https://www.jiangdabai.com/?p=891 "悬停显示") |
+| 02| 阿里巴巴算法面经 |[点击查看](https://www.jiangdabai.com/?p=878 "悬停显示") |
+| 03| 腾讯算法面经 |[点击查看](https://www.jiangdabai.com/?p=911 "悬停显示")  |
+| 04| 百度算法面经 |[点击查看](https://www.jiangdabai.com/?p=915 "悬停显示") |
+| 05| 华为算法面经 |[点击查看](https://www.jiangdabai.com/?p=918 "悬停显示") |
 | 06| 美团算法面经 |[点击查看](http://blog.csdn.net/guodongxiaren "悬停显示")|
 | 07| 京东算法面经 |[点击查看](http://blog.csdn.net/guodongxiaren "悬停显示") |
 | 08| 网易算法面经 |[点击查看](http://blog.csdn.net/guodongxiaren "悬停显示") |
