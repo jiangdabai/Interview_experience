@@ -77,5 +77,22 @@
 | 44| 有赞算法面经 |[点击查看](https://www.jiangdabai.com/?p=1232 "悬停显示") |
 | 45| 知乎算法面经 |[点击查看](https://www.jiangdabai.com/?p=1234 "悬停显示")|
 
+## 人脸特效&Api应用代码
 
+| 序号| 项目说明 | 项目链接 |
+| ----- | ----- | ----- |
+| 01| 项目汇总查看|[所有项目一览](https://www.jiangdabai.com/?p=150 "悬停显示") |
+| 02| 图像&视频读取|[点击查看项目](https://www.jiangdabai.com/?video=%e5%9f%ba%e7%a1%80%e6%93%8d%e4%bd%9c%ef%bc%9a%e5%9b%be%e5%83%8f%e8%af%bb%e5%8f%96%e5%8f%8a%e8%a7%86%e9%a2%91%e8%af%bb%e5%8f%96 "悬停显示") |
+| 03| 人脸特效：兔耳朵帽子 |[点击查看项目](https://www.jiangdabai.com/?video=%e4%ba%ba%e8%84%b8%e5%ba%94%e7%94%a8%e7%b1%bb-%e5%85%94%e8%80%b3%e6%9c%b5%e5%b8%bd%e5%ad%90%e7%89%b9%e6%95%88 "悬停显示") |
+| 04| 人脸特效：人脸墨镜 |[点击查看项目](https://www.jiangdabai.com/?video=%e4%ba%ba%e8%84%b8%e5%ba%94%e7%94%a8%e7%b1%bb-%e4%ba%ba%e8%84%b8%e5%a2%a8%e9%95%9c%e7%89%b9%e6%95%88 "悬停显示")  |
+| 05| 人脸特效：超级赛亚人 |[点击查看项目](https://www.jiangdabai.com/?video=%e4%ba%ba%e8%84%b8%e5%ba%94%e7%94%a8%e7%b1%bb-%e8%b6%85%e7%ba%a7%e8%b5%9b%e4%ba%9a%e4%ba%ba%e7%89%b9%e6%95%88 "悬停显示") |
+| 06| 人脸特效：数字化妆 |[点击查看项目](https://www.jiangdabai.com/?video=%e4%ba%ba%e8%84%b8%e5%ba%94%e7%94%a8%e7%b1%bb-%e6%95%b0%e5%ad%97%e5%8c%96%e5%a6%86 "悬停显示") |
+| 07| 人脸特效：人脸融合 |[点击查看项目](https://www.jiangdabai.com/?video=%e4%ba%ba%e8%84%b8%e5%ba%94%e7%94%a8%e7%b1%bb-%e4%ba%ba%e8%84%b8%e8%9e%8d%e5%90%88%e7%89%b9%e6%95%88 "悬停显示")|
+| 08| 百度AI:人脸检测 |[点击查看项目](https://www.jiangdabai.com/?video=%e7%99%be%e5%ba%a6ai%e7%b1%bb-%e4%ba%ba%e8%84%b8%e6%a3%80%e6%b5%8b "悬停显示") |
+| 09| 百度AI：人像分割 |[点击查看项目](https://www.jiangdabai.com/?video=%e7%99%be%e5%ba%a6ai%e7%b1%bb-%e4%ba%ba%e5%83%8f%e5%88%86%e5%89%b2 "悬停显示") |
+| 10| 百度AI：人体关键点|[点击查看项目](https://www.jiangdabai.com/?video=%e7%99%be%e5%ba%a6ai%e5%ba%94%e7%94%a8%ef%bc%9a%e4%ba%ba%e4%bd%93%e5%85%b3%e9%94%ae%e7%82%b9 "悬停显示")|
+| 11| 百度AI类：车辆检测 |[点击查看项目](https://www.jiangdabai.com/?video=%e7%99%be%e5%ba%a6ai%e7%b1%bb-%e8%bd%a6%e8%be%86%e6%a3%80%e6%b5%8b "悬停显示")|
+| 12| 百度AI类：车辆识别 |[点击查看项目](https://www.jiangdabai.com/?video=%e7%99%be%e5%ba%a6ai%e5%ba%94%e7%94%a8-%e8%bd%a6%e5%9e%8b%e8%af%86%e5%88%ab "悬停显示")|
+| 13| 艺术应用类：风格迁移 |[点击查看项目](https://www.jiangdabai.com/?video=%e8%89%ba%e6%9c%af%e5%ba%94%e7%94%a8%e7%b1%bb-%e9%a3%8e%e6%a0%bc%e8%bf%81%e7%a7%bb "悬停显示")|
 
+![image](https://github.com/jiangdabai/Interview_experience/blob/main/images/%E5%A4%A7%E7%99%BD%E6%99%BA%E8%83%BD.png)
