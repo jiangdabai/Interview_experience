@@ -77,7 +77,7 @@
 | 44| 有赞算法面经 |[点击查看](https://www.jiangdabai.com/?p=1232 "悬停显示") |
 | 45| 知乎算法面经 |[点击查看](https://www.jiangdabai.com/?p=1234 "悬停显示")|
 
-## 人脸特效&Api应用代码
+## 彩蛋1：人脸特效&Api应用代码
 
 | 序号| 项目说明 | 项目链接 |
 | ----- | ----- | ----- |
@@ -94,5 +94,14 @@
 | 11| 百度AI类：车辆检测 |[点击查看项目](https://www.jiangdabai.com/?video=%e7%99%be%e5%ba%a6ai%e7%b1%bb-%e8%bd%a6%e8%be%86%e6%a3%80%e6%b5%8b "悬停显示")|
 | 12| 百度AI类：车辆识别 |[点击查看项目](https://www.jiangdabai.com/?video=%e7%99%be%e5%ba%a6ai%e5%ba%94%e7%94%a8-%e8%bd%a6%e5%9e%8b%e8%af%86%e5%88%ab "悬停显示")|
 | 13| 艺术应用类：风格迁移 |[点击查看项目](https://www.jiangdabai.com/?video=%e8%89%ba%e6%9c%af%e5%ba%94%e7%94%a8%e7%b1%bb-%e9%a3%8e%e6%a0%bc%e8%bf%81%e7%a7%bb "悬停显示")|
+
+## 彩蛋2：深入浅出系列视频
+
+| 序号| 视频目录 | 视频链接 |
+| ----- | ----- | ----- |
+| 01| 深入浅出人脸识别基础及项目应用|[点击查看](https://www.jiangdabai.com/?video=%e6%b7%b1%e5%85%a5%e6%b5%85%e5%87%ba%e4%ba%ba%e8%84%b8%e8%af%86%e5%88%ab%e5%9f%ba%e7%a1%80%e5%8f%8a%e9%a1%b9%e7%9b%ae%e5%ba%94%e7%94%a8 "悬停显示") |
+| 02| 深入浅出人脸特效之Mask实战应用 |[点击查看](https://www.jiangdabai.com/?video=%e6%b7%b1%e5%85%a5%e6%b5%85%e5%87%ba%e4%ba%ba%e8%84%b8%e7%89%b9%e6%95%88%e5%ae%9e%e6%88%98%e5%ba%94%e7%94%a8 "悬停显示") |
+| 03| 深入浅出人工智能平台Api项目应用 |[点击查看](https://www.jiangdabai.com/?video=%e6%b7%b1%e5%85%a5%e6%b5%85%e5%87%ba%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bdapi%e9%a1%b9%e7%9b%ae%e5%ba%94%e7%94%a8 "悬停显示")  |
+| 04| 30天入门人工智能（31节课） |[点击查看](https://www.jiangdabai.com/?video=%e5%8f%91%e5%b8%83%e8%a7%86%e9%a2%91%e6%b5%8b%e8%af%95-2-2-2 "悬停显示") |
 
 ![image](https://github.com/jiangdabai/Interview_experience/blob/main/images/%E5%A4%A7%E7%99%BD%E6%99%BA%E8%83%BD.png)
