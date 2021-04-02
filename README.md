@@ -18,6 +18,8 @@
 
 作者：江大白
 
+![image](https://github.com/jiangdabai/Interview_experience/blob/main/images/%E5%A4%A7%E7%99%BD%E6%99%BA%E8%83%BD.png)
+
 ## 面经知识框架及参考答案
 
 | 序号| 面经相关 | 查看链接 |
